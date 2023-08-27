@@ -2,7 +2,7 @@ body{
   font: 15px/1.5 Arial, Helvetica,sans-serif;
   padding:0;
   margin:0;
-  background-color:#aecad1;
+  background-color:#b7dce6;
 }
 
 /* Global */
@@ -19,7 +19,7 @@ ul{
 
 .button_1{
   height:38px;
-  background:#e8491d;
+  background:#82f7ffa1;
   border:0;
   padding-left: 20px;
   padding-right:20px;
@@ -28,7 +28,7 @@ ul{
 
 .dark{
   padding:15px;
-  background:#77afd3;
+  background:#39bcf8ea;
   color:#ffffff;
   margin-top:10px;
   margin-bottom:10px;
@@ -36,12 +36,12 @@ ul{
 
 /* Header **/
 header{
-  background:#77afd3;
+  background:#39bcf8ea;
 
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
-  border-bottom:#e8491d 3px solid;
+  border-bottom:#82f7ffa1 3px solid;
 }
 
 header a{
@@ -72,7 +72,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color:#e8491d;
+  color:#82f7ffa1;
   font-weight:bold;
 }
 
@@ -88,8 +88,8 @@ header a:hover{
   background-position: center;
   background-size: cover;
   text-align:center;
-  color:#ff3d12;
-  text-shadow: #717171;
+  color:#82f7ffa1;
+  text-shadow: #0a0909;
   font-family:Algerian;
   
 }
@@ -109,7 +109,7 @@ header a:hover{
 #newsletter{
   padding:15px;
   color:#ffffff;
-  background:#77afd3;
+  background:#39bcf8ea;
 
 }
 
@@ -166,7 +166,7 @@ article#main-col{
 ul#services li{
   list-style: none;
   padding:20px;
-  border: #cccccc solid 1px;
+  border: #000000 solid 1px;
   margin-bottom:5px;
   background:#e9f7ff;
 }
@@ -175,7 +175,7 @@ footer{
   padding:20px;
   margin-top:20px;
   color:#ffffff;
-  background-color:#e8491d;
+  background-color:#82f7ffa1;
   text-align: center;
 }
 
@@ -249,14 +249,14 @@ img {vertical-align: middle;}
   height: 15px;
   width: 15px;
   margin: 0 2px;
-  background-color: #bbb;
+  background-color: #000000;
   border-radius: 50%;
   display: inline-block;
   transition: background-color 0.6s ease;
 }
 
 .active {
-  background-color: #717171;
+  background-color: #000000;
 }
 
 /* Fading animation */
