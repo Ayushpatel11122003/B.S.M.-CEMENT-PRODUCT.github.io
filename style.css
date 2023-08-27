@@ -91,7 +91,8 @@ header a:hover{
   color:#000000;
   text-shadow: #0a0909;
   font-family:Algerian;
-  
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
 }
 
 
