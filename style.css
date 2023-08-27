@@ -91,15 +91,14 @@ header a:hover{
   color:#000000;
   text-shadow: #0a0909;
   font-family:Algerian;
-  filter: blur(8px);
- 
+backdrop-filter: blur(8px);;
 }
 
 
 #showcase h1{
   margin-top:150px;
   font-size:65px;
-  margin-bottom:50px;
+  margin-bottom:20px;
 }
 
 #showcase p{
